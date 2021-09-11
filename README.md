@@ -1,5 +1,5 @@
 
-Eu sou erick e programamo em javascript e sei css e html<br>               
+<div align="center" style="background-color="red""><h1>Eu sou erick e programamo em javascript e sei css e html</h1></div><br>               
  <div align="center">
   <a href="https://github.com/erickgamer56">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Erickgamer56&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -13,7 +13,7 @@ Eu sou erick e programamo em javascript e sei css e html<br>
 </div><br>
 <div align="center"> 
   <a href="https://www.instagram.com/erickgamer56/"  target="_blank"><img src="https://img.shields.io/badge/Instagram-OOOO?style=for-the-badge&logo=instagram&logoColor=black" target="_blank"></a> 
-</div>
+</div><br>
  <div align="center">
      <img height="400" width="100%" src="https://tenor.com/view/pc-hack-hacker-guy-fawkes-mask-gif-17047235.gif">
 </div>
