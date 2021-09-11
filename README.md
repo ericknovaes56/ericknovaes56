@@ -1,6 +1,5 @@
 
-Eu sou erick e programamo em javascript e sei css e html<br>
-https://www.instagram.com/erickgamer56/                     
+Eu sou erick e programamo em javascript e sei css e html<br>               
  <div align="center">
   <a href="https://github.com/erickgamer56">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Erickgamer56&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -12,12 +11,9 @@ https://www.instagram.com/erickgamer56/
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div><br>
-         
-         
-
-         
-       
-         
-<div align="center" > 
+<div align="center"> 
   <a href="https://www.instagram.com/erickgamer56/"  target="_blank"><img src="https://img.shields.io/badge/Instagram-OOOO?style=for-the-badge&logo=instagram&logoColor=black" target="_blank"></a> 
+</div>
+ <div align="center">
+     <img height="400" width="100%" src="https://tenor.com/view/pc-hack-hacker-guy-fawkes-mask-gif-17047235.gif">
 </div>
