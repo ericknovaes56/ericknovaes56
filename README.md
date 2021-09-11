@@ -12,7 +12,7 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div><br>
 <div align="center"> 
-  <a href="https://www.instagram.com/erickgamer56/"target="_blank"><img src="https://img.shields.io/badge/Instagram-OOOO?style=for-the-badge&logo=instagram&logoColor=black"></a> 
+  <a href="https://www.instagram.com/erickgamer56/"><img src="https://img.shields.io/badge/Instagram-OOOO?style=for-the-badge&logo=instagram&logoColor=black"></a> 
 </div><br>
  <div align="center">
      <img height="400" width="100%" src="https://tenor.com/view/pc-hack-hacker-guy-fawkes-mask-gif-17047235.gif">
