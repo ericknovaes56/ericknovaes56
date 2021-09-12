@@ -2,8 +2,8 @@
 <div align="center" style="background-color="red""><h1>Eu sou erick e programo em javascript e sei css e html</h1></div><br>               
  <div align="center">
   <a href="https://github.com/erickgamer56">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Erickgamer56&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erickgamer56&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=erickgamer56&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickgamer56&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
