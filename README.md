@@ -1,5 +1,5 @@
 
-<div align="center" style="background-color="red""><h1>##Eu sou erick progamador em javascript e PHP alem disso sei css e html</h1></div><br>               
+##<div align="center" style="background-color="red""><h1>Eu sou erick progamador em javascript e PHP alem disso sei css e html</h1></div><br>               
  <div align="center">
   <a href="https://github.com/erickgamer56">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=erickgamer56&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
