@@ -19,10 +19,9 @@
 </p><br>
               
 <div align="start" style="display: flex">
-  <a href="https://github.com/erickgamer56">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ericknovaes56&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericknovaes56&layout=compact&langs_count=7&theme=radical"/>
-  </a>
+
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=ericknovaes56&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericknovaes56&layout=compact&langs_count=7&theme=radical"/>
 </div>
 <div align="center"> 
   <a href="https://www.instagram.com/erickgamer56/"><img src="https://img.shields.io/badge/Instagram-OOOO?style=for-the-badge&logo=instagram&logoColor=black"></a> 
