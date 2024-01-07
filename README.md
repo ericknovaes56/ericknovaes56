@@ -1,5 +1,5 @@
 
-<div align="center" style="background-color="red""><h1 style='text-transform:uppercase'>Líder e programador da equipe AxSpear</h1>
+<div align="start" ><h1>Líder e programador da equipe AxSpear</h1>
 </div><br>               
  <div align="center">
   <a href="https://github.com/erickgamer56">
