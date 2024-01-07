@@ -18,7 +18,7 @@
   Olá, sou Erick, um programador full stack apaixonado pelo mundo da tecnologia. Sou o fundador da equipe axspear, uma equipe de desenvolvimento virtual que se dedica a criar soluções   inovadoras e criativas para os desafios digitais.
 </p><br>
               
- <div align="start">
+ <div align="start" style="display: flex" >
   <a href="https://github.com/erickgamer56">
   <img width='100%' height="150em" src="https://github-readme-stats.vercel.app/api?username=ericknovaes56&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img  width='100%' height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericknovaes56&layout=compact&langs_count=7&theme=dark"/>
