@@ -1,10 +1,9 @@
 
 <div align="start" >
-  <h1>👩🏽‍💻 Líder e programador da equipe AxSpear<br>  <h5>FULL-STACK WEB</h5></h1>
-</div>
-<hr>
+  <h1>👩🏽‍💻 Líder e programador da equipe AxSpear</h1>
+</div><br>
 <div style="display: inline_block" align="start"><br>
-  <span>💼 Minhas experiências:</span><br><br>
+  <span>💼 Minhas experiências como fullstack:</span><br><br>
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
