@@ -19,10 +19,9 @@
 </p><br>
               
 <div align="start" style="display: flex">
-  <a href="https://github.com/ericknovaes56">
+  <a href="https://github.com/erickgamer56">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ericknovaes56&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericknovaes56&layout=compact&langs_count=7&theme=dark"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/wakatime?username=ericknovaes56&layout=compact&theme=dark"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericknovaes56&layout=compact&langs_count=7&theme=radical"/>
   </a>
 </div>
 <div align="center"> 
