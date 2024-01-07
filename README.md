@@ -18,10 +18,12 @@
   Olá, sou Erick, um programador full stack apaixonado pelo mundo da tecnologia. Sou o fundador da equipe axspear, uma equipe de desenvolvimento virtual que se dedica a criar soluções   inovadoras e criativas para os desafios digitais.
 </p><br>
               
- <div align="start" style="display: flex" >
+<div align="start" style="display: flex">
   <a href="https://github.com/erickgamer56">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ericknovaes56&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericknovaes56&layout=compact&langs_count=7&theme=dark"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ericknovaes56&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericknovaes56&layout=compact&langs_count=7&theme=dark"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/wakatime?username=ericknovaes56&layout=compact&theme=dark"/>
+  </a>
 </div>
 <div align="center"> 
   <a href="https://www.instagram.com/erickgamer56/"><img src="https://img.shields.io/badge/Instagram-OOOO?style=for-the-badge&logo=instagram&logoColor=black"></a> 
