@@ -27,7 +27,8 @@
 <hr>
 
 <div align="start">
-  <a href="https://www.instagram.com/ericknovaes56/"><img src="https://img.shields.io/badge/Instagram-OOOO?style=for-the-badge&logo=instagram&logoColor=black"></a>
-  <a href="https://www.behance.net/ericknovaes56"><img src="https://img.shields.io/badge/Behance-OOOO?style=for-the-badge&logo=behance&logoColor=black"></a>
-  <a href="https://www.linkedin.com/in/ericknovaes56"><img src="https://img.shields.io/badge/LinkedIn-OOOO?style=for-the-badge&logo=linkedin&logoColor=black"></a>
+  <a href="https://www.instagram.com/ericknovaes56/"><img src="https://img.shields.io/badge/Instagram-OOOO?style=for-the-badge&logo=instagram&logoColor=black&color=radical"></a>
+  <a href="https://www.behance.net/ericknovaes56"><img src="https://img.shields.io/badge/Behance-OOOO?style=for-the-badge&logo=behance&logoColor=black&color=radical"></a>
+  <a href="https://www.linkedin.com/in/ericknovaes56"><img src="https://img.shields.io/badge/LinkedIn-OOOO?style=for-the-badge&logo=linkedin&logoColor=black&color=radical"></a>
 </div><br>
+
