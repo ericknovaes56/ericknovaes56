@@ -36,9 +36,6 @@
   <a href="https://discordapp.com/users/erickgamer56"><img src="https://img.shields.io/badge/Discord-OOOO?style=for-the-badge&logo=discord&logoColor=white&color=ff1e00"></a>
 </div><br>
 
-<hr>
-
-![Snake animation](https://github.com/ericknovaes56/ericknovaes56/blob/main/github-contribution-grid-snake.svg)
 
 
 
