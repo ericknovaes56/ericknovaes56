@@ -1,5 +1,6 @@
 
-<div align="center" style="background-color="red""><h1 style='text-transform:uppercase'>Lider e programador da equipe AxSpear</h1></div><br>               
+<div align="center" style="background-color="red""><h1 style='text-transform:uppercase'>Líder e programador da equipe AxSpear</h1>
+</div><br>               
  <div align="center">
   <a href="https://github.com/erickgamer56">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ericknovaes56&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
