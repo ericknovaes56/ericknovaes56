@@ -2,7 +2,7 @@
 <div align="start" ><h1>👩🏽‍💻 Líder e programador da equipe AxSpear</h1>
 <hr>
 <div style="display: inline_block" align="start"><br>
-  <span>💼 Minhas experiências</span><br><br>
+  <span>💼 Minhas experiências:</span><br><br>
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -27,11 +27,19 @@
 <hr>
 
 <div align="start">
+    <span>🌐 Minhas redes:</span><br><br>
   <a href="https://www.instagram.com/ericknovaes56/"><img src="https://img.shields.io/badge/Instagram-OOOO?style=for-the-badge&logo=instagram&logoColor=white&color=ff1e00"></a>
   <a href="https://www.behance.net/ericknovaes56"><img src="https://img.shields.io/badge/Behance-OOOO?style=for-the-badge&logo=behance&logoColor=white&color=ff1e00"></a>
   <a href="https://www.linkedin.com/in/ericknovaes56"><img src="https://img.shields.io/badge/LinkedIn-OOOO?style=for-the-badge&logo=linkedin&logoColor=white&color=ff1e00"></a>
   <a href="https://discordapp.com/users/erickgamer56"><img src="https://img.shields.io/badge/Discord-OOOO?style=for-the-badge&logo=discord&logoColor=white&color=ff1e00"></a>
 </div><br>
+
+<hr>
+
+![Snake animation](https://github.com/ericknovaes56/ericknovaes56/blob/output/github-contribution-grid-snake.svg)
+
+
+
 
 
 
