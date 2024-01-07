@@ -36,7 +36,8 @@
 
 <hr>
 
-![Snake animation](https://github.com/ericknovaes56/ericknovaes56/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ericknovaes56/ericknovaes56/blob/main/github-contribution-grid-snake.svg)
+
 
 
 
