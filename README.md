@@ -2,6 +2,7 @@
 <div align="start" >
   <h1>👩🏽‍💻 Líder e programador da equipe AxSpear</h1>
 </div><br>
+<hr>
 <div style="display: inline_block" align="start"><br>
   <span>💼 Minhas experiências como fullstack:</span><br><br>
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
