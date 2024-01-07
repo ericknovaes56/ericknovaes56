@@ -1,5 +1,6 @@
 
-<div align="start" ><h1>👩🏽‍💻 Líder e programador da equipe AxSpear</h1>
+<div align="start" ><h1>👩🏽‍💻 Líder e programador da equipe AxSpear</h1><br>
+<div align="start" ><h1>FULL-STACK WEB</h1>
 <hr>
 <div style="display: inline_block" align="start"><br>
   <span>💼 Minhas experiências:</span><br><br>
